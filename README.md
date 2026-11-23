@@ -1,5 +1,5 @@
 # Isaiah Sinclair
-I am a Computer Science student who has a passion for programming, marathon running and economics. I enjoy the process of learning and problem-solving, and have established a strong work ethic to achieve my goals.
+I am a Computer Science student who has a passion for mathematics, programming, marathon running and economics. I enjoy the process of learning and problem-solving, and have established a strong work ethic to achieve my goals.
 ## Skills
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,r,html,css,javascript,ts&theme=light)](https://skillicons.dev)
